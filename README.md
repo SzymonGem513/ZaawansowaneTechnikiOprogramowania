@@ -1,2 +1,2 @@
-# ZaawansowaneTechnikiOprogramowania
-Zaawansowane Techniki Oprogramowania PO sem II NSI
+# ZaawansowaneTechnikiProgramowania
+Zaawansowane Techniki Programowania PO sem II NSI
