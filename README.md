@@ -2,8 +2,8 @@
 Aplikacja służąca do zarządzania prywatną lisą zadań
 
 ## Instalacja
-1. Sklonuj repozytorium: `git clone https://github.com/twoje-repozytorium.git` 
-2. Wejdź do katalogu projektu: `cd twoje-repozytorium`
+1. Sklonuj repozytorium: `git clone https://github.com/SzymonGem513/ZaawansowaneTechnikiProgramowania.git` 
+2. Wejdź do katalogu projektu: `cd ZaawansowaneTechnikiProgramowania\Lista2`
 3. Zainstaluj zależności: `pip install -r requirements.txt` 
 
 ## Użycie
@@ -20,7 +20,10 @@ Po uruchomieniu programu ukazuje się konsole menu wyboru. Dostępne opcje to:
 Należy wybrać intersującą nas opcję i postępować zgodnie z instrukcjami programu.
 
 ## Dokumentacja
-Udostępnij link lub instrukcje, jak wygenerować dokumentację z docstringów. 
+Generowanie dokumentacji:
+pydoc -w zadania
+
+Odczytać dokumentację można poprzed otworzenie pliku zadania.html
 
 ## Autor
 Szymon Gembalczyk
